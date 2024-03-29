@@ -13,3 +13,8 @@ A quantidade de combinações numéricas e séries aleatórias a serem geradas p
 ![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/output.png)
 
 ![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/output2.png)
+
+# CONCLUSÃO
+
+É necessário desenvolver ou aplicar métodos para avaliar essas séries em relação às séries de uma ação X. Como podemos determinar quais parâmetros são capazes de gerar séries que se aproximam mais da série de um ativo financeiro?
+
