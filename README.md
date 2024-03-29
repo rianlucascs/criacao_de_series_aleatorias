@@ -4,11 +4,13 @@ O objetivo deste projeto é gerar séries aleatórias por meio de um processo es
 
 Neste projeto, o cálculo foi adaptado de forma que receba N números aleatórios, os quais são aplicados de forma aleatória durante a criação da série, dentro do intervalo de -100 a 100. A quantidade de números aleatórios é escolhida de forma randômica no intervalo de 1 a 10. Além disso, outros dois números são gerados da mesma forma, permanecendo estáticos no intervalo de -100 a 100.
 
+![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/diagrama.png)
+
 É possível gerar N combinações numéricas aleatórias para aplicar no cálculo. No arquivo do notebook.ipynb, foram geradas 20 combinações, a partir das quais foram criadas 10 séries aleatórias.
 
 A quantidade de combinações numéricas e séries aleatórias a serem geradas pode ser alterada conforme necessário.
 
-![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/diagrama.png)
+
 
 
 
