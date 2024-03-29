@@ -12,3 +12,4 @@ A quantidade de combinações numéricas e séries aleatórias a serem geradas p
 
 ![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/output.png)
 
+![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/output2.png)
