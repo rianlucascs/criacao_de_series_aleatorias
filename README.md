@@ -8,11 +8,7 @@ Neste projeto, o cálculo foi adaptado de forma que receba N números aleatório
 
 A quantidade de combinações numéricas e séries aleatórias a serem geradas pode ser alterada conforme necessário.
 
-
-
-
-
-
+![Texto Alternativo](https://github.com/rianlucascs/criacao_de_series_aleatorias/blob/main/diagrama.png)
 
 
 
