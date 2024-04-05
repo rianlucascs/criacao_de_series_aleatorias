@@ -15,4 +15,6 @@ A quantidade de combinações numéricas e séries aleatórias a serem geradas p
 
 # OBSERVAÇÃO
 
-É necessário desenvolver ou aplicar métodos para avaliar essas séries em relação a serie de uma ação X. Como podemos determinar quais parâmetros são capazes de gerar séries que mais se assemelham à série de um ativo financeiro?
+É necessário desenvolver ou aplicar métodos para avaliar essas séries em relação a serie de uma ação X. 
+
+Como podemos determinar quais parâmetros são capazes de gerar séries que mais se assemelham à série de um ativo financeiro?
